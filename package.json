@@ -1,0 +1,16 @@
+{
+  "name": "listentogether",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SatroP",
+  "license": "ISC",
+  "description": "My 1st discord bot",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
